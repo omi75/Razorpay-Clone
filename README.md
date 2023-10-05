@@ -1,7 +1,3 @@
-# Razorpay-Clone
-
-# Razorpay-Clone
-
 ## ⭐ Razorpay Clone ⭐
 
 It's a website that has been designed to clone the design of the popular Indian payment gateway, Razorpay.
