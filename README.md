@@ -20,4 +20,4 @@ It's a website that has been designed to clone the design of the popular Indian 
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/onkar-mahindrakar-66187422b/)
+- **LinkedIn** - [Onkar Mahindrakar](https://www.linkedin.com/in/onkar-mahindrakar-66187422b/)
